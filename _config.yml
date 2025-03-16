@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
-  avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
-  location         : "Berlin/ Darmstadt, Germany"
-  employer         : "TU Darmstadt"
+  name             : "Mark Gjuraj"
+  avatar           : "mg-profilepic.png"
+  bio              : "Aspiring Data Professional \n Yale University Alumnus"
+  location         : "Stamford, Connecticut, United States"
+  employer         : "Formerly at Global-e"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "boris.meinardus00@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "mgjuraj28@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "MGjuraj"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : "markgjuraj"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : "foxinthedb"
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          :
   wikipedia        :
 
 

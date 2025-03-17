@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+  (Website WIP)
 
 Greetings! My name is Mark Gjuraj, or Mark G, if that's easier 😆. I've heard it all, so give it your best shot!
 

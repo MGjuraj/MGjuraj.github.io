@@ -2,13 +2,13 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/Resume.pdf
+    url: /files/MarkGjurajResume.pdf
 
-  - title: "Portfolio"
+  - title: "Data Science Portfolio"
     url: /portfolio/
   
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"

@@ -4,4 +4,4 @@ excerpt: "Data Analysis Project"
 collection: portfolio
 ---
 
-See: https://github.com/MGjuraj/worldbank-covid19
+See [GitHub Repository](https://github.com/MGjuraj/worldbank-covid19) for more.
